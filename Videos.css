@@ -19,7 +19,7 @@
   font-size: 3rem;
   letter-spacing: 0px;
   font-weight: 700;
-  margin: 0 229px 0 70px;
+  margin: 80px 229px 0 70px;
 }
 
 .u-section-1 .u-text-2 {
@@ -38,7 +38,7 @@
 .u-section-1 .u-text-4 {
   font-style: normal;
   width: 420px;
-  margin: 17px auto 0;
+  margin: 30px auto 0;
 }
 
 .u-section-1 .u-layout-cell-2 {
@@ -70,7 +70,7 @@
   }
 
   .u-section-1 .u-layout-cell-1 {
-    min-height: 602px;
+    min-height: 740px;
   }
 
   .u-section-1 .u-text-1 {
@@ -79,7 +79,8 @@
   }
 
   .u-section-1 .u-text-2 {
-    margin-right: 265px;
+    width: auto;
+    margin-right: 102px;
     margin-left: 23px;
   }
 

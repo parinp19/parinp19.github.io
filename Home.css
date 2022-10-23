@@ -138,6 +138,8 @@
 
 .u-section-3 .u-text-1 {
   font-size: 3rem;
+  font-weight: normal;
+  font-family: Roboto, sans-serif;
   margin: 25px 79px 0;
 }
 
@@ -206,8 +208,6 @@
   }
 
   .u-section-3 .u-text-1 {
-    font-weight: normal;
-    font-family: Roboto, sans-serif;
     margin-left: 0;
     margin-right: 0;
   }
@@ -313,16 +313,12 @@
 
 @media (max-width: 1199px) {
   .u-section-4 .u-text-1 {
-    margin-left: 416px;
-  }
-
-  .u-section-4 .u-text-2 {
-    margin-left: 147px;
-    margin-right: 147px;
+    margin-top: 34px;
   }
 
   .u-section-4 .u-gallery-1 {
     height: 349px;
+    margin-top: 36px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
@@ -338,14 +334,8 @@
     min-height: 1651px;
   }
 
-  .u-section-4 .u-text-1 {
-    margin-left: auto;
-  }
-
   .u-section-4 .u-text-2 {
     width: auto;
-    margin-left: 0;
-    margin-right: 0;
   }
 
   .u-section-4 .u-gallery-1 {
